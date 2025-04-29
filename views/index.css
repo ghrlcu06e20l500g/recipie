@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+.display-1, .display-2, .card-title, .modal-header {
+    font-family: "Caveat Brush", sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+
